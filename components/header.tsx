@@ -37,7 +37,6 @@ export default function Header() {
     )}>
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <Link href="/" className="font-bold text-xl md:text-2xl">
-          <span className="text-primary">K</span>
           <span className="text-primary">Manoj</span>
         </Link>
 

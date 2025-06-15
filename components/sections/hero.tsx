@@ -33,7 +33,7 @@ export default function Hero() {
               Hello, I&apos;m
             </span>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-              Kunche Manoj
+              Manoj Kunche
             </h1>
             <h2 className="text-xl md:text-2xl lg:text-3xl font-medium text-muted-foreground mt-2">
               Computer Science Engineer & Full-Stack Developer

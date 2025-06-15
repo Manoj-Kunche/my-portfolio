@@ -40,7 +40,7 @@ export default function About() {
           >
             <div className="relative h-72 md:h-96 w-full rounded-2xl overflow-hidden border border-border">
               <Image 
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg"
+                src="/me.jpg"
                 alt="Kunche Manoj"
                 fill
                 className="object-cover"
